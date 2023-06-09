@@ -1,0 +1,30 @@
+
+.descriptionEvent{
+    display: flex;
+    
+}
+
+.datePickerBox{
+    margin-bottom: 10px;
+}
+
+.datePickerBox,
+.datePickerEvent{
+    display: flex;
+    align-items: center;
+    margin-right: 10px;
+}
+
+@media screen and (max-width : 1150px) {
+    .descriptionEvent{
+        display: block;
+    }
+}
+@media screen and (max-width : 489px) {
+    .datePickerBox{
+        display: block;
+    }
+    .datePickerEvent{
+        margin-bottom: 10px;
+    }
+}
