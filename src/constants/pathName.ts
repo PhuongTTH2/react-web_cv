@@ -1,0 +1,15 @@
+export const pathName = {
+  HOME: "/",
+  WRITING: "/writing/:Test_id",
+  LOUNGE_Test_ID: "/lounge/:Test_id",
+  PROFILE: "/basic_profile",
+  PERSONAL_PROFILE: "/personal_profile",
+  CREATE_Test: "/create-Test",
+  SET_MEMBERSHIP: "/set-membership",
+  TERMS: "/terms",
+  PRIVACY: "/privacy",
+  PROGRAM_POLICIES: "/program-policies",
+  USER_AGREEMENT: "/user-agreement",
+  ABOUT_US: "/about-us",
+  FORBIDDEN: "/forbidden",
+};
