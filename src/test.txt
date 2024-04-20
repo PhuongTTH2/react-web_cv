@@ -3,3 +3,5 @@ brach test2.2
 brach test2.3
 branch test1
 
+amend1
+amend1.1
