@@ -5,3 +5,5 @@ branch test1
 
 amend1
 amend1.1
+git commit -m "amend1-3"
+git push -f origin test1
